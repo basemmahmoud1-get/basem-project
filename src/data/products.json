@@ -1,0 +1,162 @@
+[
+  {
+    "id": 1,
+    "title": "iPhone 14 Pro",
+    "price": 42000,
+    "image": "/images/1 iphone 14 oro.jpg",
+    "description": "Apple flagship phone with A16 chip and smooth performance.",
+    "category": "Phones"
+  },
+  {
+    "id": 2,
+    "title": "Samsung S24 Ultra",
+    "price": 39000,
+    "image": "/images/2 samsung s24 ultra.webp",
+    "description": "Android flagship with powerful camera and S Pen.",
+    "category": "Phones"
+  },
+  {
+    "id": 3,
+    "title": "AirPods Pro",
+    "price": 8500,
+    "image": "/images/3 air pods pro.jpg",
+    "description": "Premium wireless earbuds with active noise cancellation.",
+    "category": "Accessories"
+  },
+  {
+    "id": 4,
+    "title": "Apple Watch Series 9",
+    "price": 18000,
+    "image": "/images/4 apple watch.jpg",
+    "description": "Smart watch with fitness and health tracking.",
+    "category": "Wearables"
+  },
+  {
+    "id": 5,
+    "title": "Power Bank 20000mAh",
+    "price": 1200,
+    "image": "/images/5 power bank.jpg",
+    "description": "Portable fast charger for all mobile devices.",
+    "category": "Accessories"
+  },
+  {
+    "id": 6,
+    "title": "Xiaomi Redmi Note 13",
+    "price": 14500,
+    "image": "/images/6 redmi note 13.webp",
+    "description": "Affordable smartphone with AMOLED display.",
+    "category": "Phones"
+  },
+  {
+    "id": 7,
+    "title": "Bluetooth Speaker",
+    "price": 2200,
+    "image": "/images/7 blutooth speaker.jpg",
+    "description": "Portable speaker with rich bass and long battery.",
+    "category": "Accessories"
+  },
+  {
+    "id": 8,
+    "title": "Gaming Headset",
+    "price": 3500,
+    "image": "/images/8 gaming headset.jpg",
+    "description": "Immersive headset with crystal clear sound.",
+    "category": "Gaming"
+  },
+  {
+    "id": 9,
+    "title": "Samsung Galaxy Buds",
+    "price": 5200,
+    "image": "/images/9 samsung glaxy bads.jpg",
+    "description": "Compact earbuds with premium audio quality.",
+    "category": "Accessories"
+  },
+  {
+    "id": 10,
+    "title": "Anker Charger 65W",
+    "price": 1500,
+    "image": "/images/10 anker charge.webp",
+    "description": "Fast charger for phones and tablets.",
+    "category": "Accessories"
+  },
+  {
+    "id": 11,
+    "title": "Huawei Watch GT",
+    "price": 9800,
+    "image": "/images/11 uawei watch gt.jpg",
+    "description": "Elegant smartwatch with smart notifications.",
+    "category": "Wearables"
+  },
+  {
+    "id": 12,
+    "title": "Infinix Zero 30",
+    "price": 13200,
+    "image": "/images/12 infinix zero 30.jpg",
+    "description": "Stylish smartphone with strong selfie camera.",
+    "category": "Phones"
+  },
+  {
+    "id": 13,
+    "title": "Wireless Mouse",
+    "price": 700,
+    "image": "/images/13 wireless mouse.jpg",
+    "description": "Ergonomic wireless mouse for work and gaming.",
+    "category": "Accessories"
+  },
+  {
+    "id": 14,
+    "title": "Premium Phone Case",
+    "price": 350,
+    "image": "/images/14 premium phone case.jpg",
+    "description": "Shockproof and stylish protective case.",
+    "category": "Accessories"
+  },
+  {
+    "id": 15,
+    "title": "iPad Mini",
+    "price": 21000,
+    "image": "/images/15 ipad mini.jpg",
+    "description": "Compact tablet for work, study, and fun.",
+    "category": "Tablets"
+  },
+  {
+    "id": 16,
+    "title": "Lenovo Tab M10",
+    "price": 9000,
+    "image": "/images/16 lenovo tab m 1o.jpg",
+    "description": "Affordable tablet for study and entertainment.",
+    "category": "Tablets"
+  },
+  {
+    "id": 17,
+    "title": "Smart Ring",
+    "price": 4000,
+    "image": "/images/17 smart ring.jpg",
+    "description": "Minimal wearable smart ring with sensors.",
+    "category": "Wearables"
+  },
+  {
+    "id": 18,
+    "title": "Sony WH-1000XM5",
+    "price": 15500,
+    "image": "/images/18 song wh.jpg",
+    "description": "Industry-leading noise cancelling headphones.",
+    "category": "Accessories"
+  },
+  {
+    "id": 19,
+    "title": "USB-C Cable",
+    "price": 250,
+    "image": "/images/19 usb c cable.jpg",
+    "description": "Durable braided cable with fast charging.",
+    "category": "Accessories"
+  },
+  {
+    "id": 20,
+    "title": "Portable SSD 1TB",
+    "price": 4500,
+    "image": "/images/20 port table ssd 1t.jpg",
+    "description": "High-speed external SSD for files and backups.",
+    "category": "Storage"
+  }
+]
